@@ -114,7 +114,6 @@ Gosto de transformar problemas em soluções através de **código, automação,
 ---
 
 ## `> tech_stack`
-## `> tech_stack`
 
 <div align="center">
 
